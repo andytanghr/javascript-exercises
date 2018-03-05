@@ -121,4 +121,3 @@ createOlderArticle('Introduction to Swift', 'Swift is a modern programming langu
 //append element to higher parent node like in a div
 
 })();
-
